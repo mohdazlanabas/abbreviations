@@ -1,20 +1,15 @@
-const data = {
-    "PKS": {
-        "indonesian": "Perjanjian Kerja Sama",
-        "english": "Cooperation Agreement",
-        "malaysia": "Perjanjian Kerjasama",
-        "category": "Document",
-        "region": "National"
-    },
-    "KLH": {
-        "indonesian": "Kementerian Lingkungan Hidup",
-        "english": "Ministry of Environment",
-        "malaysia": "Ministry of Natural Resources and Environment",
-        "category": "Ministry",
-        "region": "National"
-    }
-    // ... Full dataset loaded from abbreviations.json in the full version
-};
+let data = {};
+
+// Load the JSON data when the script is loaded
+fetch('abbreviations.json')
+    .then(response => response.json())
+    .then(json => {
+        data = json;
+    })
+    .catch(error => {
+        console.error('Error loading abbreviations:', error);
+        document.getElementById("result").innerHTML = "❌ Error loading abbreviation data.";
+    });
 
 function lookup() {
     const abbr = document.getElementById("abbrInput").value.toUpperCase();
@@ -24,10 +19,10 @@ function lookup() {
     if (result) {
         resultDiv.innerHTML = `
             <strong>${abbr}</strong><br>
-            🇮🇩 ${result.indonesian}<br>
-            🇬🇧 ${result.english}<br>
-            🇲🇾 ${result.malaysia}<br>
-            📁 ${result.category} | 🌍 ${result.region}
+            🇮🇩 ${result["Indonesian Full Form"]}<br>
+            🇬🇧 ${result["English Equivalent"]}<br>
+            🇲🇾 ${result["Malaysian Equivalent"]}<br>
+            📁 ${result.Category} | 🌍 ${result.Region}
         `;
     } else {
         resultDiv.innerHTML = "❌ Abbreviation not found.";

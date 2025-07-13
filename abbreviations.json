@@ -1,0 +1,310 @@
+{
+    "PKS": {
+        "Indonesian Full Form": "Perjanjian Kerja Sama",
+        "English Equivalent": "Cooperation Agreement",
+        "Malaysian Equivalent": "Perjanjian Kerjasama",
+        "Category": "Document",
+        "Region": "National"
+    },
+    "KLH": {
+        "Indonesian Full Form": "Kementerian Lingkungan Hidup",
+        "English Equivalent": "Ministry of Environment",
+        "Malaysian Equivalent": "Kementerian Alam Sekitar",
+        "Category": "Ministry",
+        "Region": "National"
+    },
+    "BPJS": {
+        "Indonesian Full Form": "Badan Penyelenggara Jaminan Sosial",
+        "English Equivalent": "Social Security Admin",
+        "Malaysian Equivalent": "PERKESO",
+        "Category": "Agency",
+        "Region": "National"
+    },
+    "BPOM": {
+        "Indonesian Full Form": "Badan Pengawas Obat dan Makanan",
+        "English Equivalent": "Food and Drug Authority",
+        "Malaysian Equivalent": "NPRA",
+        "Category": "Agency",
+        "Region": "National"
+    },
+    "TPS": {
+        "Indonesian Full Form": "Tempat Penampungan Sementara",
+        "English Equivalent": "Temporary Collection Site",
+        "Malaysian Equivalent": "TPS (Tapak Sementara)",
+        "Category": "Waste Management",
+        "Region": "National"
+    },
+    "PERDA": {
+        "Indonesian Full Form": "Peraturan Daerah",
+        "English Equivalent": "Regional Regulation",
+        "Malaysian Equivalent": "State Enactment",
+        "Category": "Law",
+        "Region": "Regional"
+    },
+    "UKL-UPL": {
+        "Indonesian Full Form": "Upaya Pengelolaan & Pemantauan Lingkungan",
+        "English Equivalent": "Environmental Management Plan",
+        "Malaysian Equivalent": "EMP",
+        "Category": "Environment",
+        "Region": "National"
+    },
+    "AMDAL": {
+        "Indonesian Full Form": "Analisis Mengenai Dampak Lingkungan",
+        "English Equivalent": "Environmental Impact Assessment",
+        "Malaysian Equivalent": "EIA (DOE)",
+        "Category": "Environment",
+        "Region": "National"
+    },
+    "OSS": {
+        "Indonesian Full Form": "Online Single Submission",
+        "English Equivalent": "Online Licensing Platform",
+        "Malaysian Equivalent": "MyCoID",
+        "Category": "Business",
+        "Region": "National"
+    },
+    "RSUD": {
+        "Indonesian Full Form": "Rumah Sakit Umum Daerah",
+        "English Equivalent": "Public Hospital",
+        "Malaysian Equivalent": "Hospital (MOH)",
+        "Category": "Healthcare",
+        "Region": "Regional"
+    },
+    "BLU": {
+        "Indonesian Full Form": "Badan Layanan Umum",
+        "English Equivalent": "Public Service Body",
+        "Malaysian Equivalent": "Statutory Body",
+        "Category": "Agency",
+        "Region": "National"
+    },
+    "BPK": {
+        "Indonesian Full Form": "Badan Pemeriksa Keuangan",
+        "English Equivalent": "Audit Board",
+        "Malaysian Equivalent": "Audit Malaysia (AG)",
+        "Category": "Agency",
+        "Region": "National"
+    },
+    "BAPPEDA": {
+        "Indonesian Full Form": "Badan Perencanaan Pembangunan Daerah",
+        "English Equivalent": "Regional Dev Planning Unit",
+        "Malaysian Equivalent": "JPBD (PlanMalaysia)",
+        "Category": "Agency",
+        "Region": "Regional"
+    },
+    "TPS 3R": {
+        "Indonesian Full Form": "Tempat Penampungan Sementara Reduce-Reuse-Recycle",
+        "English Equivalent": "3R Facility",
+        "Malaysian Equivalent": "3R Collection Center",
+        "Category": "Waste Management",
+        "Region": "National"
+    },
+    "TPST": {
+        "Indonesian Full Form": "Tempat Pengolahan Sampah Terpadu",
+        "English Equivalent": "Integrated Waste Processing",
+        "Malaysian Equivalent": "IWTS",
+        "Category": "Waste Management",
+        "Region": "National"
+    },
+    "TPA": {
+        "Indonesian Full Form": "Tempat Pembuangan Akhir",
+        "English Equivalent": "Final Disposal Site/Landfill",
+        "Malaysian Equivalent": "Landfill",
+        "Category": "Waste Management",
+        "Region": "National"
+    },
+    "B3": {
+        "Indonesian Full Form": "Bahan Berbahaya dan Beracun",
+        "English Equivalent": "Hazardous & Toxic Waste",
+        "Malaysian Equivalent": "Scheduled Waste",
+        "Category": "Waste Management",
+        "Region": "National"
+    },
+    "MIGAS": {
+        "Indonesian Full Form": "Minyak dan Gas",
+        "English Equivalent": "Oil & Gas",
+        "Malaysian Equivalent": "MIGAS",
+        "Category": "Oil & Gas",
+        "Region": "National"
+    },
+    "ESDM": {
+        "Indonesian Full Form": "Kementerian Energi dan Sumber Daya Mineral",
+        "English Equivalent": "Ministry of Energy",
+        "Malaysian Equivalent": "Kementerian Tenaga",
+        "Category": "Ministry",
+        "Region": "National"
+    },
+    "SKK Migas": {
+        "Indonesian Full Form": "Satuan Kerja Khusus Hulu Migas",
+        "English Equivalent": "Upstream Oil & Gas Regulator",
+        "Malaysian Equivalent": "PETRONAS Upstream",
+        "Category": "Agency",
+        "Region": "National"
+    },
+    "BPH Migas": {
+        "Indonesian Full Form": "Badan Pengatur Hilir Migas",
+        "English Equivalent": "Downstream Oil & Gas Regulator",
+        "Malaysian Equivalent": "PETRONAS Downstream",
+        "Category": "Agency",
+        "Region": "National"
+    },
+    "PSC": {
+        "Indonesian Full Form": "Production Sharing Contract",
+        "English Equivalent": "PSC",
+        "Malaysian Equivalent": "PSC",
+        "Category": "Contract",
+        "Region": "National"
+    },
+    "HSE": {
+        "Indonesian Full Form": "Health Safety Environment",
+        "English Equivalent": "HSE",
+        "Malaysian Equivalent": "HSE",
+        "Category": "Regulation",
+        "Region": "National"
+    },
+    "HAZOP": {
+        "Indonesian Full Form": "Hazard and Operability",
+        "English Equivalent": "Hazard Analysis",
+        "Malaysian Equivalent": "HAZOP Study",
+        "Category": "Engineering",
+        "Region": "National"
+    },
+    "QC": {
+        "Indonesian Full Form": "Quality Control",
+        "English Equivalent": "QC",
+        "Malaysian Equivalent": "QC",
+        "Category": "Process",
+        "Region": "National"
+    },
+    "QA": {
+        "Indonesian Full Form": "Quality Assurance",
+        "English Equivalent": "QA",
+        "Malaysian Equivalent": "QA",
+        "Category": "Process",
+        "Region": "National"
+    },
+    "OHS": {
+        "Indonesian Full Form": "Occupational Health and Safety",
+        "English Equivalent": "OHS",
+        "Malaysian Equivalent": "OHS",
+        "Category": "Regulation",
+        "Region": "National"
+    },
+    "SCADA": {
+        "Indonesian Full Form": "Supervisory Control & Data Acquisition",
+        "English Equivalent": "SCADA",
+        "Malaysian Equivalent": "SCADA",
+        "Category": "System",
+        "Region": "National"
+    },
+    "SIUP": {
+        "Indonesian Full Form": "Surat Izin Usaha Perdagangan",
+        "English Equivalent": "Trade License",
+        "Malaysian Equivalent": "SSM License",
+        "Category": "License",
+        "Region": "National"
+    },
+    "NIB": {
+        "Indonesian Full Form": "Nomor Induk Berusaha",
+        "English Equivalent": "Business Registration Number",
+        "Malaysian Equivalent": "SSM Registration",
+        "Category": "Business",
+        "Region": "National"
+    },
+    "NPWP": {
+        "Indonesian Full Form": "Nomor Pokok Wajib Pajak",
+        "English Equivalent": "Tax ID",
+        "Malaysian Equivalent": "Income Tax Number",
+        "Category": "Tax",
+        "Region": "National"
+    },
+    "PT": {
+        "Indonesian Full Form": "Perseroan Terbatas",
+        "English Equivalent": "Limited Liability Company",
+        "Malaysian Equivalent": "Sdn Bhd",
+        "Category": "Business",
+        "Region": "National"
+    },
+    "BUMN": {
+        "Indonesian Full Form": "Badan Usaha Milik Negara",
+        "English Equivalent": "State-Owned Enterprise",
+        "Malaysian Equivalent": "GLC",
+        "Category": "Business",
+        "Region": "National"
+    },
+    "BUMD": {
+        "Indonesian Full Form": "Badan Usaha Milik Daerah",
+        "English Equivalent": "Region-Owned Enterprise",
+        "Malaysian Equivalent": "State-Owned Entity",
+        "Category": "Business",
+        "Region": "Regional"
+    },
+    "DPR": {
+        "Indonesian Full Form": "Dewan Perwakilan Rakyat",
+        "English Equivalent": "People's Representative Council",
+        "Malaysian Equivalent": "Parliament",
+        "Category": "Government",
+        "Region": "National"
+    },
+    "MPR": {
+        "Indonesian Full Form": "Majelis Permusyawaratan Rakyat",
+        "English Equivalent": "People\u2019s Consultative Assembly",
+        "Malaysian Equivalent": "Parliament Upper House",
+        "Category": "Government",
+        "Region": "National"
+    },
+    "KPK": {
+        "Indonesian Full Form": "Komisi Pemberantasan Korupsi",
+        "English Equivalent": "Anti-Corruption Commission",
+        "Malaysian Equivalent": "MACC (SPRM)",
+        "Category": "Agency",
+        "Region": "National"
+    },
+    "PPN": {
+        "Indonesian Full Form": "Pajak Pertambahan Nilai",
+        "English Equivalent": "Value Added Tax",
+        "Malaysian Equivalent": "SST",
+        "Category": "Tax",
+        "Region": "National"
+    },
+    "PBB": {
+        "Indonesian Full Form": "Pajak Bumi dan Bangunan",
+        "English Equivalent": "Property Tax",
+        "Malaysian Equivalent": "Cukai Tanah",
+        "Category": "Tax",
+        "Region": "National"
+    },
+    "SKPD": {
+        "Indonesian Full Form": "Satuan Kerja Perangkat Daerah",
+        "English Equivalent": "Local Government Department",
+        "Malaysian Equivalent": "State/Local Department",
+        "Category": "Government",
+        "Region": "Regional"
+    },
+    "PDAM": {
+        "Indonesian Full Form": "Perusahaan Daerah Air Minum",
+        "English Equivalent": "Water Utility",
+        "Malaysian Equivalent": "Water Operator (Air Selangor)",
+        "Category": "Utility",
+        "Region": "Regional"
+    },
+    "KLHK": {
+        "Indonesian Full Form": "Kementerian Lingkungan Hidup dan Kehutanan",
+        "English Equivalent": "Environment and Forestry Ministry",
+        "Malaysian Equivalent": "KASA",
+        "Category": "Ministry",
+        "Region": "National"
+    },
+    "DJSN": {
+        "Indonesian Full Form": "Dewan Jaminan Sosial Nasional",
+        "English Equivalent": "Social Security Council",
+        "Malaysian Equivalent": "PADU Board",
+        "Category": "Agency",
+        "Region": "National"
+    },
+    "PPATK": {
+        "Indonesian Full Form": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
+        "English Equivalent": "Financial Transaction Analysis Center",
+        "Malaysian Equivalent": "Central Bank FIU",
+        "Category": "Agency",
+        "Region": "National"
+    }
+}
