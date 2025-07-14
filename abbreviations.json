@@ -306,5 +306,103 @@
         "Malaysian Equivalent": "Central Bank FIU",
         "Category": "Agency",
         "Region": "National"
-    }
-}
+    },
+        "PEMDA": {
+          "indonesian": "Pemerintah Daerah",
+          "english": "Local Government",
+          "malaysia": "Kerajaan Negeri / PBT",
+          "category": "Government Entity",
+          "region": "Regional"
+        },
+        "DINAS": {
+          "indonesian": "Dinas",
+          "english": "Local Government Department",
+          "malaysia": "Jabatan",
+          "category": "Agency",
+          "region": "Regional"
+        },
+        "DLH": {
+          "indonesian": "Dinas Lingkungan Hidup",
+          "english": "Environmental Office",
+          "malaysia": "Jabatan Alam Sekitar",
+          "category": "Agency",
+          "region": "Regional"
+        },
+        "DISHUB": {
+          "indonesian": "Dinas Perhubungan",
+          "english": "Transportation Office",
+          "malaysia": "Jabatan Pengangkutan Awam",
+          "category": "Agency",
+          "region": "Regional"
+        },
+        "DINKES": {
+          "indonesian": "Dinas Kesehatan",
+          "english": "Health Office",
+          "malaysia": "Jabatan Kesihatan",
+          "category": "Agency",
+          "region": "Regional"
+        },
+        "DISPERINDAG": {
+          "indonesian": "Dinas Perindustrian dan Perdagangan",
+          "english": "Industry & Trade Office",
+          "malaysia": "Jabatan Perdagangan dan Industri",
+          "category": "Agency",
+          "region": "Regional"
+        },
+        "PERUMDA": {
+          "indonesian": "Perusahaan Umum Daerah",
+          "english": "Regional Government-Owned Enterprise",
+          "malaysia": "GLC Negeri / Perbadanan Negeri",
+          "category": "Enterprise",
+          "region": "Regional"
+        },
+        "PEMKAB": {
+          "indonesian": "Pemerintah Kabupaten",
+          "english": "Regency Government",
+          "malaysia": "Majlis Daerah",
+          "category": "Government Entity",
+          "region": "Regency"
+        },
+        "PEMKOT": {
+          "indonesian": "Pemerintah Kota",
+          "english": "City Government",
+          "malaysia": "Majlis Bandaraya / Majlis Perbandaran",
+          "category": "Government Entity",
+          "region": "City"
+        },
+        "PROV": {
+          "indonesian": "Pemerintah Provinsi",
+          "english": "Provincial Government",
+          "malaysia": "Kerajaan Negeri",
+          "category": "Government Entity",
+          "region": "Provincial"
+        },
+        "BLUD": {
+          "indonesian": "Badan Layanan Umum Daerah",
+          "english": "Regional Public Service Agency",
+          "malaysia": "Agensi Perkhidmatan Awam Negeri",
+          "category": "Agency",
+          "region": "Regional"
+        },
+        "BUMDES": {
+          "indonesian": "Badan Usaha Milik Desa",
+          "english": "Village-Owned Enterprise",
+          "malaysia": "Perbadanan Kampung",
+          "category": "Enterprise",
+          "region": "Village"
+        },
+        "PTSP": {
+          "indonesian": "Pelayanan Terpadu Satu Pintu",
+          "english": "One‑Stop Licensing Service",
+          "malaysia": "Pusat Sehenti Lesen Perniagaan",
+          "category": "Agency",
+          "region": "National"
+        },
+        "PERUM": {
+          "indonesian": "Perusahaan Umum",
+          "english": "National Public Company",
+          "malaysia": "Syarikat Berkaitan Kerajaan",
+          "category": "Enterprise",
+          "region": "National"
+        }
+      }
